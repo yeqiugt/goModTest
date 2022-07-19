@@ -1,6 +1,7 @@
 package goModTest
 
 func HelloWorld() string {
+	// add nothing
 	return "hello, world"
 }
 
